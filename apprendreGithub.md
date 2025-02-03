@@ -1,4 +1,5 @@
 ## premier cours de GitHub
  halla wallah
- its been a whil
+ its been a while
+ thats the first commit!!
  
